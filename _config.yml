@@ -12,7 +12,7 @@ title                    : "Ning Sun"
 title_separator          : "-"
 name                     : &name "Ning Sun"
 description              : &description "PhD student at MBZUAI. Interested in AI for Life Science"
-url                      : https://sunny.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://sunningmbzuai.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
