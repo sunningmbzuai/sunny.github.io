@@ -11,7 +11,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 About Me
 ======
-I am a third-year PhD student in Computer Vision at MBZUAI, supervised by Professor [Le Song](https://dasongle.github.io/). I also work closely with Professor [Eric Xing](https://www.cs.cmu.edu/~epxing/) on the Multiscale Biological Foundation Model project (AIDO). Since my second year, I have been collaborating with Eric’s group at CMU, where I also completed a three-month exchange visit during the summer.
+I am a third-year PhD student in Computer Vision at MBZUAI, supervised by Professor [Le Song](https://dasongle.github.io/). I also work closely with Professor [Eric Xing](https://www.cs.cmu.edu/~epxing/) on the Multiscale Biological Foundation Model project. Since my second year, I have been collaborating with Eric’s group at CMU, where I also completed a three-month exchange visit during the summer.
 
 Prior to joining MBZUAI, I graduated with a bachelor's degree in Computer Science from the University of Science and Technology of China (USTC).
 
