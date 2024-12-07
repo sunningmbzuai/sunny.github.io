@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Ning Sun (孙宁)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at MBZUAI.\n Interested in AI for Life Science"
+  bio              : "PhD student at MBZUAI. Interested in AI for Life Science"
   location         : "Abu Dhabi, UAE"
-  employer         : "Mohamed bin Zayed University of Artificial Intelligence"
+  employer         : "MBZUAI"
   uri              : # URL
   email            : "ning.sun@mbzuai.ac.ae" 
 
