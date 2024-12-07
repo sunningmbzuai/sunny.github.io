@@ -21,7 +21,7 @@ repository               : "sunningmbzuai/sunny.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile_square.png"
   name             : "Ning Sun (孙宁)"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at MBZUAI. Interested in AI for Life Science"
