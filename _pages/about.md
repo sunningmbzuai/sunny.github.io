@@ -9,7 +9,7 @@ redirect_from:
 
 I am a third-year PhD student in Computer Vision at MBZUAI, supervised by Professor [Le Song](https://dasongle.github.io/). I also work closely with Professor [Eric Xing](https://www.cs.cmu.edu/~epxing/) on the Multiscale Biological Foundation Model project. Since my second year, I have been collaborating with Eric’s group at CMU, where I also completed a three-month exchange visit during the summer.
 
-Prior to joining MBZUAI, I graduated with a bachelor's degree in Computer Science from the University of Science and Technology of China (USTC).
+Prior to joining MBZUAI, I graduated with a bachelor's degree in Computer Science from the University of Science and Technology of China (USTC). During my final year as an undergraduate, I completed a one-year internship at Microsoft Research Asia (MSRA), where I worked on visual generalization based on NUWA model and optimization of LightGBM.
 
 
 Research Interests
